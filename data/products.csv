@@ -1,0 +1,4 @@
+ID,Name,Price,Quantity,Type
+1,Алма,450.0,100,Standard
+2,Сүт,350.0,50,Perishable
+3,Йогурт,200.0,20,Perishable
